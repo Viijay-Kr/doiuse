@@ -1,12 +1,12 @@
 {
-  "name": "doiuse",
-  "version": "4.4.1",
-  "description": "Lint CSS for browser support against caniuse database",
+  "name": "doiuse-clone",
+  "version": "1.0.0",
+  "description": "Lint CSS for browser support against caniuse database. This is a clone of https://github.com/anandthakker/doiuse. This package offers some additional features. Use it at your own risk. Please use the original package for stability",
   "main": "lib/doiuse.js",
   "bin": "./cli.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anandthakker/doiuse.git"
+    "url": "https://github.com/Viijay-Kr/doiuse"
   },
   "keywords": [
     "lint",
